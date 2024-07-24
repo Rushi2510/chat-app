@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "99487369438",
+    "project_id": "chat-app-a460e",
+    "storage_bucket": "chat-app-a460e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:99487369438:android:2e91bff4cb2d1c4e815a4f",
+        "android_client_info": {
+          "package_name": "com.rushi.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "99487369438-4unl40ke0ahc5gsqqruv0p8nnm8b53p3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rushi.app",
+            "certificate_hash": "3568298de083c0a90a95982539d1c876ca7beb8c"
+          }
+        },
+        {
+          "client_id": "99487369438-fnbmbir0i4bt3f53lp83sc3hpla8f3r8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqHg0ovpz4OTICOi01m4a5zcgNwCqE2FM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "99487369438-fnbmbir0i4bt3f53lp83sc3hpla8f3r8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
